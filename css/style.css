@@ -3,5 +3,8 @@
     font-size: 18px important;
     width:90% important;
     border:3px solid #f4f4f4 important;
+}
 
+.section-follow .fa-4x{
+    margin:5px 10px;
 }
